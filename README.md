@@ -2,9 +2,11 @@
 
 A __regular expression__ (sometimes called a _rational expression_) is a sequence of characters that define a search pattern, mainly for use in pattern matching with strings, or string matching, i.e. `find and replace` like operations. The concept arose in the 1950s, when the American mathematician Stephen Kleene formalized the description of a regular language, and came into common use with the Unix text processing utilities ed, an editor, and grep, a filter.
 
-## Online editor
+## Online editors
 
 [Regex101](https://regex101.com/)
+[RegExr](http://regexr.com/)
+
 
 ## Chars that must be escaped
 
