@@ -4,8 +4,8 @@ A __regular expression__ (sometimes called a _rational expression_) is a sequenc
 
 ## Online editors
 
-[Regex101](https://regex101.com/)
-[RegExr](http://regexr.com/)
+- [Regex101](https://regex101.com/)
+- [RegExr](http://regexr.com/)
 
 
 ## Chars that must be escaped
